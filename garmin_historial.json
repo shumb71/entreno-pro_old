@@ -3434,13 +3434,28 @@
     },
     "2026-10-11": {
       "fecha": "2026-10-11",
-      "pasos": null,
-      "calorias_dia": null,
-      "calorias_activas": null,
-      "distancia_km": 0.0,
-      "minutos_activos": null,
-      "fc_reposo": null,
-      "estres_medio": null
+      "pasos": 19575,
+      "calorias_dia": 2257.0,
+      "calorias_activas": 1067.0,
+      "distancia_km": 13.2,
+      "minutos_activos": 46,
+      "fc_reposo": 46,
+      "estres_medio": 24,
+      "sueno_total_min": 459,
+      "sueno_profundo_min": 87,
+      "sueno_ligero_min": 296,
+      "sueno_rem_min": 76,
+      "sueno_puntuacion": 78,
+      "actividades": [
+        {
+          "nombre": "Cabra Senderismo",
+          "tipo": "hiking",
+          "duracion_min": 183,
+          "calorias": 1147.0,
+          "fc_media": 118.0,
+          "fc_max": 168.0
+        }
+      ]
     }
   },
   "actualizado": "2026-10-11"
