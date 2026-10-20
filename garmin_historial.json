@@ -3613,7 +3613,17 @@
       "sueno_ligero_min": 270,
       "sueno_rem_min": 65,
       "sueno_puntuacion": 77
+    },
+    "2026-10-20": {
+      "fecha": "2026-10-20",
+      "pasos": 11,
+      "calorias_dia": 13.0,
+      "calorias_activas": 0.0,
+      "distancia_km": 0.01,
+      "minutos_activos": 0,
+      "fc_reposo": 53,
+      "estres_medio": 27
     }
   },
-  "actualizado": "2026-10-19"
+  "actualizado": "2026-10-20"
 }
