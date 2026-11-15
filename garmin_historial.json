@@ -4157,13 +4157,13 @@
     },
     "2026-11-15": {
       "fecha": "2026-11-15",
-      "pasos": 5320,
-      "calorias_dia": 1241.0,
-      "calorias_activas": 237.0,
-      "distancia_km": 3.89,
+      "pasos": 5340,
+      "calorias_dia": 1321.0,
+      "calorias_activas": 240.0,
+      "distancia_km": 3.9,
       "minutos_activos": 40,
       "fc_reposo": 56,
-      "estres_medio": 93,
+      "estres_medio": 55,
       "actividades": [
         {
           "nombre": "Ojén Senderismo",
